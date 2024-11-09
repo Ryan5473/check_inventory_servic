@@ -14,3 +14,4 @@ build/
 # Cache files
 *.cache/
 *.tmp
+node_modules/

@@ -1,0 +1,23 @@
+{
+  "name": "checkinventry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqp": "^0.2.7",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.7.1"
+  },
+  "devDependencies": {
+    "amqplib": "^0.10.4",
+    "jest": "^29.7.0",
+    "mongodb-memory-server": "^10.1.2",
+    "supertest": "^7.0.0"
+  }
+}
